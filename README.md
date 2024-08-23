@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rayyan-khalid
 - 👀 I’m interested in Flutter Dev
-- 🌱 I’m currently learning Flutter and Git and Github
+- 🌱 I’m currently learning Flutter, Git and Github
 - 📫 You can reach me via e-mail 'reyyankhalid535@gmail.com'  OR 'rayyanzarrar25@gmail.com'
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Cool man, working hard bcz i want to marry and also a little bit gamer and intersted in Pubg and GTA.
